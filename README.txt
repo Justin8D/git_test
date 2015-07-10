@@ -7,3 +7,5 @@ Who's there?
 Git
 
 Git Who?
+
+Git is a slur in some countries.
